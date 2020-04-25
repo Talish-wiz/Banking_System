@@ -1,7 +1,7 @@
 # Banking_System
 This repository is maintained to depicts basic functions of a Bank using python
 
-# ABOUT
+# About
 This repo conatins a python script which deals with the concept of file handling in python 
 
 # To Run this project
